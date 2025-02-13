@@ -1,3 +1,5 @@
+[![Test Integration](https://github.com/HugoAlvarezAjenjo/PracticaEMS/actions/workflows/cd.yml/badge.svg)](https://github.com/HugoAlvarezAjenjo/PracticaEMS/actions/workflows/cd.yml)
+
 # Pipeline de Integración Continua con GitHub Actions
 
 Repositorio para el laboratorio de CI con GitHub Actions
